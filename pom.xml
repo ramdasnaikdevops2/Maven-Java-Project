@@ -99,7 +99,7 @@
 			<version>${spring.version}</version>
 		</dependency>
   </dependencies>
-
+<!--
    <profiles>
         <profile>
             <id>sonar</id>
@@ -123,6 +123,7 @@
             </build>
         </profile>
   </profiles>
+-->
 
  
 </project>
